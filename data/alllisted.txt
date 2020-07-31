@@ -647,7 +647,6 @@ BURL,BURL|Burlington Stores, Inc. Common Stock
 BUY,BUY|USCF SummerHaven SHPEI Index Fund
 BUYZ,BUYZ|Franklin Disruptive Commerce ETF
 BV,BV|BrightView Holdings, Inc. Common Stock
-BVAL,BVAL|Brand Value ETF
 BVN,BVN|Buenaventura Mining Company Inc.
 BW,BW|Babcock & Wilcox Enterprises, Inc. Common Stock
 BWA,BWA|BorgWarner Inc. Common Stock
@@ -1342,7 +1341,6 @@ ECNS,ECNS|iShares MSCI China Small-Cap ETF
 ECOM,ECOM|ChannelAdvisor Corporation Common Stock
 ECON,ECON|Columbia Emerging Markets Consumer ETF
 ECOZ,ECOZ|TrueShares ESG Active Opportunities ETF
-ECT,ECT|ECA Marcellus Trust I Common Units of Beneficial Interest
 ED,ED|Consolidated Edison, Inc. Common Stock
 EDC,EDC|Direxion Emerging Markets Bull 3X Shares
 EDD,EDD|Morgan Stanley Emerging Markets Domestic Debt Fund, Inc. Morgan Stanley Emerging Markets Domestic Debt Fund, Inc. Common Stock
@@ -1952,7 +1950,6 @@ GBR,GBR|New Concept Energy, Inc Common Stock
 GBUG,GBUG|iPath Gold ETN
 GBUY,GBUY|Goldman Sachs New Age Consumer ETF
 GBX,GBX|Greenbrier Companies, Inc. (The) Common Stock
-GCAP,GCAP|GAIN Capital Holdings, Inc. Common Stock
 GCC,GCC|WisdomTree Continuous Commodity Index Fund
 GCE,GCE|Clarymore CEF GS Connect ETN
 GCI,GCI|Gannett Co., Inc. Common Stock
@@ -2088,6 +2085,7 @@ GNT$A,GNT$A|GAMCO Natural Resources, Gold & Income Tust  5.20% Series A Cumulati
 GNW,GNW|Genworth Financial Inc Common Stock
 GOAT,GOAT|VanEck Vectors Morningstar Global Wide Moat ETF
 GOAU,GOAU|US Global GO Gold and Precious Metal Miners ETF
+GOED,GOED|1847 Goedeker Inc. Commom Stock
 GOEX,GOEX|Global X Gold Explorers ETF
 GOF,GOF|Guggenheim Strategic Opportunities Fund Common Shares of Beneficial Interest
 GOL,GOL|Gol Linhas Aereas Inteligentes S.A. Sponsored ADR representing 2 Pfd Shares
@@ -2589,6 +2587,7 @@ ITGR,ITGR|Integer Holdings Corporation Common Stock
 ITM,ITM|VanEck Vectors AMT-Free Intermediate Municipal Index ETF
 ITOT,ITOT|iShares Core S&P Total U.S. Stock Market ETF
 ITP,ITP|IT Tech Packaging, Inc. Common Stock
+ITRG,ITRG|Integra Resources Corp. Common Shares
 ITT,ITT|ITT Inc. Common Stock 
 ITUB,ITUB|Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares)
 ITW,ITW|Illinois Tool Works Inc. Common Stock
@@ -3836,6 +3835,7 @@ PRMW,PRMW|Primo Water Corporation Common Stock
 PRNT,PRNT|3D Printing (The) ETF
 PRO,PRO|PROS Holdings, Inc. Common Stock
 PROS,PROS|ProSight Global, Inc. Common Stock
+PRPB.U,PRPB.U|CC Neuberger Principal Holdings II Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant
 PRS,PRS|Prudential Financial, Inc. 5.625% Junior Subordinated Notes due 2058
 PRSP,PRSP|Perspecta Inc. Common Stock 
 PRT,PRT|PermRock Royalty Trust Trust Units
@@ -6457,6 +6457,7 @@ ESSCU,ESSCU|East Stone Acquisition Corporation - Unit
 ESSCW,ESSCW|East Stone Acquisition Corporation - Warrant
 ESTA,ESTA|Establishment Labs Holdings Inc. - Common Shares
 ESXB,ESXB|Community Bankers Trust Corporation. - Common Stock
+ETACU,ETACU|E.Merge Technology Acquisition Corp. - Unit
 ETFC,ETFC|E*TRADE Financial Corporation - Common Stock
 ETNB,ETNB|89bio, Inc. - Common Stock
 ETON,ETON|Eton Pharmaceuticals, Inc. - Common Stock
@@ -6677,6 +6678,7 @@ FTEK,FTEK|Fuel Tech, Inc. - Common Stock
 FTFT,FTFT|Future FinTech Group Inc. - Common Stock
 FTGC,FTGC|First Trust Global Tactical Commodity Strategy Fund
 FTHI,FTHI|First Trust BuyWrite Income ETF
+FTHM,FTHM|Fathom Holdings Inc. - Common Stock
 FTLB,FTLB|First Trust Hedged BuyWrite Income ETF
 FTNT,FTNT|Fortinet, Inc. - Common Stock
 FTRI,FTRI|First Trust Indxx Global Natural Resources Income ETF
@@ -7624,6 +7626,7 @@ NGHCP,NGHCP|National General Holdings Corp - 7.50% Non-Cumulative Preferred Stoc
 NGHCZ,NGHCZ|National General Holdings Corp - 7.625% Subordinated Notes due 2055
 NGM,NGM|NGM Biopharmaceuticals, Inc. - Common Stock
 NH,NH|NantHealth, Inc. - Common Stock
+NHICU,NHICU|NewHold Investment Corp. - Unit
 NHLD,NHLD|National Holdings Corporation - Common Stock
 NHLDW,NHLDW|National Holdings Corporation - Warrants
 NHTC,NHTC|Natural Health Trends Corp. - Commn Stock
@@ -8757,6 +8760,7 @@ VIR,VIR|Vir Biotechnology, Inc. - Common Stock
 VIRC,VIRC|Virco Manufacturing Corporation - Common Stock
 VIRT,VIRT|Virtu Financial, Inc. - Class A Common Stock
 VISL,VISL|Vislink Technologies, Inc. - Common Stock
+VITL,VITL|Vital Farms, Inc. - Common Stock
 VIVE,VIVE|Viveve Medical, Inc. - Common Stock
 VIVO,VIVO|Meridian Bioscience Inc. - Common Stock
 VKTX,VKTX|Viking Therapeutics, Inc. - Common Stock
@@ -8797,6 +8801,7 @@ VSAT,VSAT|ViaSat, Inc. - Common Stock
 VSDA,VSDA|VictoryShares Dividend Accelerator ETF
 VSEC,VSEC|VSE Corporation - Common Stock
 VSMV,VSMV|VictoryShares US Multi-Factor Minimum Volatility ETF
+VSTA,VSTA|Vasta Platform Limited - Class A Ordinary Shares
 VSTM,VSTM|Verastem, Inc. - Common Stock
 VTC,VTC|Vanguard Total Corporate Bond ETF
 VTGN,VTGN|VistaGen Therapeutics, Inc. - Common Stock
